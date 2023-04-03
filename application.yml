@@ -9,7 +9,6 @@ eureka:
     
 spring:
  datasource:
-   driverClassName: com.mysql.jdbc.Driver
    url: jdbc:mysql://172.17.0.212:3306/claims
    username: ndangeti
    password: Welcome1
